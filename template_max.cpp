@@ -31,7 +31,8 @@ double  maxx(double x,double y)
 //template function 
 
 //template definition
-template<class T>
+
+template<class T>  // or template<typename T>
 
 T maxx(T x,T y)
 {
