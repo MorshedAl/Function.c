@@ -7,8 +7,8 @@ using namespace std;
  only difference is used '&' in formal parameter,nothing else.
  but works as like as call by address.
 
--in this method,swap isn’t created at stack memory.
- just create  nick_name of variables(in stack)
+-in this method,swap() isn’t create safferately at stack memory.
+ just create  nick_name of variables(in stack memory)
  and copy function/inline function (in main function).
 
 
